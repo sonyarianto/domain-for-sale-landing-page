@@ -85,7 +85,7 @@ export default function Home() {
               </li>
             </ul>
             <p>
-              If you interested please contact Name at{" "}
+              If you are interested, please contact Name at{" "}
               <code className="font-mono font-medium text-gray-950 dark:text-white">
                 <a
                   href="mailto:user@example.com"

@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "example.com for sale",
-  description: "Domain example.com for sale. Quick description about the domain.",
+  description:
+    "Domain example.com for sale. Quick description about the domain.",
 };
 
 export default function RootLayout({
