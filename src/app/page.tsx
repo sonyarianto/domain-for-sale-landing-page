@@ -88,7 +88,7 @@ export default function Home() {
               If you interested please contact Name at{" "}
               <code className="font-mono font-medium text-gray-950 dark:text-white">
                 <a
-                  href="https://example.com"
+                  href="mailto:user@example.com"
                   className="underline-offset-3 text-gray-950 underline decoration-sky-400 hover:decoration-2 dark:text-white"
                 >
                   user@example.com
