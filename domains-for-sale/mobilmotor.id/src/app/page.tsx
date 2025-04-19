@@ -3,9 +3,9 @@ export default function Home() {
     <div className="[--pattern-fg:var(--color-gray-950)]/5 dark:[--pattern-fg:var(--color-white)]/10 relative grid min-h-screen grid-cols-[1fr_2.5rem_auto_2.5rem_1fr] grid-rows-[1fr_1px_auto_1px_1fr] bg-white dark:bg-gray-950">
       <div className="col-start-3 row-start-3 flex max-w-lg flex-col bg-gray-100 p-2 dark:bg-white/10">
         <div className="rounded-xl bg-white p-10 text-sm/7 text-gray-700 dark:bg-gray-950 dark:text-gray-300">
-          <div className="text-2xl font-bold">spot.city</div>
+          <div className="text-2xl font-bold">mobilmotor.id</div>
           <div className="space-y-6">
-            <p className="mt-1.5 leading-relaxed">Domain spot.city for sale. Good domain for city directories, point of interest directories etc. Targeting global market.</p>
+            <p className="mt-1.5 leading-relaxed">Domain mobilmotor.id for sale. Good domain for automotive community etc. Targeting huge Indonesian market.</p>
             <ul className="space-y-3">
               <li className="flex">
                 <svg
@@ -97,10 +97,10 @@ export default function Home() {
           <p className="mb-3">Other domain for sale:</p>
           <p className="font-semibold">
             <a
-              href="https://carimentor.id"
+              href="https://motormobil.id"
               className="underline-offset-3 text-gray-950 underline decoration-sky-400 hover:decoration-2 dark:text-white"
             >
-              carimentor.id
+              motormobil.id
             </a>
           </p>
         </div>
