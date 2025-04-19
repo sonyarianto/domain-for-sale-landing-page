@@ -97,10 +97,10 @@ export default function Home() {
           <p className="mb-3">Other domain for sale:</p>
           <p className="font-semibold">
             <a
-              href="https://bolabanget.id"
+              href="https://carimentor.id"
               className="underline-offset-3 text-gray-950 underline decoration-sky-400 hover:decoration-2 dark:text-white"
             >
-              bolabanget.id
+              carimentor.id
             </a>
           </p>
         </div>
