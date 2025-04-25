@@ -5,7 +5,7 @@ export default function Home() {
         <div className="rounded-xl bg-white p-10 text-sm/7 text-gray-700 dark:bg-gray-950 dark:text-gray-300">
           <div className="text-2xl font-bold">example.com</div>
           <div className="space-y-6">
-            <p className="mt-1.5 leading-relaxed">
+            <p className="mt-1.5">
               Quick description about the domain. Lorem ipsum dolor sit amet,
               consectetur adipiscing elit.
             </p>
