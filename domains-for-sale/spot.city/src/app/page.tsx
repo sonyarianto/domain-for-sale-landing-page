@@ -5,7 +5,10 @@ export default function Home() {
         <div className="rounded-xl bg-white p-10 text-sm/7 text-gray-700 dark:bg-gray-950 dark:text-gray-300">
           <div className="text-2xl font-bold">spot.city</div>
           <div className="space-y-6">
-            <p className="mt-1.5 leading-relaxed">Domain spot.city for sale. Good domain for city directories, point of interest directories etc. Targeting global market.</p>
+            <p className="mt-1.5 leading-relaxed">
+              Domain spot.city for sale. Good domain for city directories, point
+              of interest directories etc. Targeting global market.
+            </p>
             <ul className="space-y-3">
               <li className="flex">
                 <svg
@@ -26,7 +29,7 @@ export default function Home() {
                     className="stroke-sky-800 dark:stroke-sky-300"
                   />
                 </svg>
-                <p className="ml-3">
+                <p className="ml-3 leading-relaxed">
                   Price{" "}
                   <code className="font-mono font-medium text-gray-950 dark:text-white">
                     USD 19.000
@@ -57,7 +60,9 @@ export default function Home() {
                     className="stroke-sky-800 dark:stroke-sky-300"
                   />
                 </svg>
-                <p className="ml-3">Full support during domain transfer.</p>
+                <p className="ml-3 leading-relaxed">
+                  Full support during domain transfer.
+                </p>
               </li>
               <li className="flex">
                 <svg
@@ -78,10 +83,10 @@ export default function Home() {
                     className="stroke-sky-800 dark:stroke-sky-300"
                   />
                 </svg>
-                <p className="ml-3">Good investment.</p>
+                <p className="ml-3 leading-relaxed">Good investment.</p>
               </li>
             </ul>
-            <p>
+            <p className="leading-relaxed">
               If you are interested, please contact Sony at{" "}
               <code className="font-mono font-medium text-gray-950 dark:text-white">
                 <a

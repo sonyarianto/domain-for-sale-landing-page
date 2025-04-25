@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "bolabanget.id for sale",
-  description: "Domain bolabanget.id for sale. Good domain for sports news, sports community etc. Targeting huge Indonesian market.",
+  description:
+    "Domain bolabanget.id for sale. Good domain for sports news, sports community etc. Targeting huge Indonesian market.",
 };
 
 export default function RootLayout({

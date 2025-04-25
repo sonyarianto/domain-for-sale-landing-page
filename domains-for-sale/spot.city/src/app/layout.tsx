@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "spot.city for sale",
-  description: "Domain spot.city for sale. Good domain for city directories, point of interest directories etc. Targeting global market.",
+  description:
+    "Domain spot.city for sale. Good domain for city directories, point of interest directories etc. Targeting global market.",
 };
 
 export default function RootLayout({
